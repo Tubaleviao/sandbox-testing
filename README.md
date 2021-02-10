@@ -1,4 +1,4 @@
-# create-react-app React Project with Node Express Backend
+# create-react-app React Project with Node Express Backend project
 
 > Example on using create-react-app with a Node Express Backend
 
